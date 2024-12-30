@@ -1,0 +1,5 @@
+# ninja log v5
+0	4588	1666090846811401341	/home/wy/文档/my projects/GwcNet-augment/models/libs/sync_bn/build/temp.linux-x86_64-3.6/src/cpu/sync_bn.o	c55d97d7aa172b67
+0	11915	1666090854136419530	/home/wy/文档/my projects/GwcNet-augment/models/libs/sync_bn/build/temp.linux-x86_64-3.6/src/cpu/operator.o	949b4590ff609423
+0	11094	1666090865417966627	/home/wy/文档/my projects/GwcNet-augment/models/libs/sync_bn/build/temp.linux-x86_64-3.6/src/gpu/sync_bn_cuda.o	ccdc518a63623d5c
+0	12273	1666090866598127016	/home/wy/文档/my projects/GwcNet-augment/models/libs/sync_bn/build/temp.linux-x86_64-3.6/src/gpu/operator.o	babe486c64b8909f
