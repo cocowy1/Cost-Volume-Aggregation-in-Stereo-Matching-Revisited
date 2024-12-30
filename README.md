@@ -20,6 +20,7 @@ Pytorch 1.6.0
 conda create -n DCANet python=3.8
 conda activate DCANet
 ```
+<img width="900" src="https://github.com/cocowy1/ADStereo/blob/main/figs/dcanet_module.png"/></div>
 
 # Dependencies
 ```
