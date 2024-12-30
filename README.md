@@ -46,11 +46,11 @@ pip install timm==0.5.4
 Run `main.py` to train on the SceneFlow dataset. Please update datapath in `main.py` as your training data path.
 
 # 2. Train on KITTI \& ETH3D 
-Run `train_kitti.py` or `train_eth3d` to finetune on the different real-world datasets, such as KITTI 2012, KITTI 2015, and ETH3D.
+Run `train_kitti.py` or `train_eth3d.py` to finetune on the different real-world datasets, such as KITTI 2012, KITTI 2015, and ETH3D.
 
 To generate prediction results on the test set of the KITTI dataset, you can run `evaluate_kitti.py`. 
 The inference time can be printed  once you run `evaluate_kitti.py`. 
-And the inference results on the KITTI dataset can be directly submitted to the online evaluation server for benchmarking.
+The inference results on the KITTI dataset can be directly submitted to the online evaluation server for benchmarking.
 
 # 3. Inference 
 Run `my_img.py` to finetune on the  KITTI 2012, KITTI 2015. Please update datapath in `my_img.py` as your testing data path.
