@@ -6,6 +6,10 @@ ability for cost aggregation. With the help of homogeneous region representation
 overheads. It is demonstrated that our DCA module can effectively exploit disparity class priors to improve the performance of cost aggregation. Based on our DCA, we design a highly accurate network named DCANet, which achieves state-of-the-art performance on several benchmarks.
 
 
+# Overview
+[DCA_module.pdf](https://github.com/user-attachments/files/18271730/DCA_module.pdf)
+
+
 # Environment
 ```
 Python 3.8
