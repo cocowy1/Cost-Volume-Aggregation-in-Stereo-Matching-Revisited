@@ -59,8 +59,3 @@ Run `my_img.py` to finetune on the  KITTI 2012, KITTI 2015. Please update datapa
 # Acknowledgements
 
 This project is based on [GwcNet](https://github.com/xy-guo/GwcNet). We thank the original authors for their excellent works.
-
-# Acknowledgements
-
-This project is based on [GwcNet](https://github.com/xy-guo/GwcNet), [IGEV-Stereo](https://github.com/gangweiX/IGEV), and [CoEx](https://github.com/antabangun/coex). We thank the original authors for their excellent works.
-
