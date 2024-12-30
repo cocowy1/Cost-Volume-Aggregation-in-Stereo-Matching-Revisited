@@ -1,4 +1,5 @@
-# DCANet
+# Cost Volume Aggregation in Stereo Matching Revisited: A Disparity Classification Perspective.
+
 Cost aggregation plays a critical role in existing stereo matching methods. In this paper, we revisit cost aggregation in stereo matching from disparity classification and propose
 a generic yet efficient Disparity Context Aggregation (DCA) module to improve the performance of CNN-based methods. Our approach is based on an insight that a coarse disparity
 class prior is beneficial to disparity regression. To obtain such a prior, we first classify pixels in an image into several disparity classes and treat pixels within the same class as homogeneous regions. We then generate homogeneous region representations and incorporate these representations into the cost volume to suppress irrelevant information while enhancing the matching
@@ -55,6 +56,21 @@ The inference results on the KITTI dataset can be directly submitted to the onli
 # 3. Inference 
 Run `my_img.py` to finetune on the  KITTI 2012, KITTI 2015. Please update datapath in `my_img.py` as your testing data path.
 
+
+## Citation
+
+If you find our work useful in your research, please consider citing our paper:
+
+```bibtex
+
+@article{wang2024cost,
+  title={Cost Volume Aggregation in Stereo Matching Revisited: A Disparity Classification Perspective},
+  author={Wang, Yun and Wang, Longguang and Li, Kunhong and Zhang, Yongjian and Wu, Dapeng Oliver and Guo, Yulan},
+  journal={IEEE Transactions on Image Processing},
+  year={2024},
+  publisher={IEEE}
+}
+```
 
 # Acknowledgements
 
