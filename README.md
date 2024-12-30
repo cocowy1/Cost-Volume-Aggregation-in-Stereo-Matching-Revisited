@@ -39,4 +39,4 @@ pip install timm==0.5.4
 <img width="900" src="https://github.com/cocowy1/DCANet/blob/main/figs/kitti_mask.png"/></div>
 
 #  Visualization of Grad-CAM
-<img width="900" src="https://github.com/cocowy1/DCANet/blob/main/figs/kitti_mask.png"/></div>
+<img width="900" src="https://github.com/cocowy1/DCANet/blob/main/figs/heatmap%20comparison.png"/></div>
