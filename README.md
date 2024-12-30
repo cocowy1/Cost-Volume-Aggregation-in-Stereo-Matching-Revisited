@@ -1,4 +1,4 @@
-# Cost Volume Aggregation in Stereo Matching Revisited: A Disparity Classification Perspective (TIP 2024).
+# Cost Volume Aggregation in Stereo Matching Revisited: A Disparity Classification Perspective (DCANet TIP 2024).
 
 Cost aggregation plays a critical role in existing stereo matching methods. In this paper, we revisit cost aggregation in stereo matching from disparity classification and propose
 a generic yet efficient Disparity Context Aggregation (DCA) module to improve the performance of CNN-based methods. Our approach is based on an insight that a coarse disparity
