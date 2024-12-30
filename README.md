@@ -39,6 +39,10 @@ pip install timm==0.5.4
 # Disparity Classficiation Visualization on KITTI
 <img width="900" src="https://github.com/cocowy1/DCANet/blob/main/figs/kitti_mask.png"/></div>
 
+# Disparity Classficiation Visualization on SceneFlow
+<img width="900" src="https://github.com/cocowy1/DCANet/blob/main/figs/classification.png"/></div>
+
+
 #  Visualization of Grad-CAM
 <img width="900" src="https://github.com/cocowy1/DCANet/blob/main/figs/heatmap%20comparison.png"/></div>
 
