@@ -6,7 +6,7 @@ ability for cost aggregation. With the help of homogeneous region representation
 overheads. It is demonstrated that our DCA module can effectively exploit disparity class priors to improve the performance of cost aggregation. Based on our DCA, we design a highly accurate network named DCANet, which achieves state-of-the-art performance on several benchmarks.
 
 
-# Overview
+# DCA (Disparity Context Aggregation) Module Overview
 <img width="900" src="https://github.com/cocowy1/DCANet/blob/main/figs/DCA_module.png"/></div>
 
 # Environment
