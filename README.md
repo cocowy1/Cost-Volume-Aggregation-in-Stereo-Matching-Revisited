@@ -7,8 +7,7 @@ overheads. It is demonstrated that our DCA module can effectively exploit dispar
 
 
 # Overview
-[DCA_module.pdf](https://github.com/user-attachments/files/18271730/DCA_module.pdf)
-
+<img width="900" src="https://github.com/cocowy1/DCANet/blob/main/figs/DCA_module.png"/></div>
 
 # Environment
 ```
@@ -20,7 +19,7 @@ Pytorch 1.6.0
 conda create -n DCANet python=3.8
 conda activate DCANet
 ```
-<img width="900" src="https://github.com/cocowy1/ADStereo/blob/main/figs/dcanet_module.png"/></div>
+
 
 # Dependencies
 ```
